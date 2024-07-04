@@ -1,6 +1,6 @@
 ![ing Vicente](https://raw.githubusercontent.com/vichedev/vichedev/main/bannerviche.png)
 
-# Hola, soy <VicheDev/> 👋🔥
+# Hola, soy VicheDev 👋🔥
 
 ¡Bienvenido a mi perfil de GitHub! Soy Ingeniero en Sistemas de Información con una pasión especial por el desarrollo web Frontend. Aquí encontrarás algunos de mis proyectos y exploraciones utilizando tecnologías modernas y frameworks como Astro, React.js, Vue.js y Tailwind CSS.
 
