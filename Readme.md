@@ -77,17 +77,6 @@ Construyo interfaces web con React, backends con Node.js y NestJS, y herramienta
 
 ---
 
-## 📊 Estadísticas
-
-<div align="center">
-
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=vichedev&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=vichedev&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
-
----
-
 ## 📫 Contacto
 
 ¿Tienes un proyecto de redes, una idea web o quieres colaborar? Escríbeme.
