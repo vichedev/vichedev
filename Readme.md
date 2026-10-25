@@ -4,7 +4,7 @@
 
 # Hola, soy Vicente Zamora (VicheDev) 👋
 
-**Ingeniero en Sistemas de Información · Analista de Redes · Desarrollador Full Stack**
+**Ingeniero en Sistemas de Información · Apasionado por las redes · Desarrollador Full Stack**
 
 Construyo interfaces web con React, backends con Node.js y NestJS, y herramientas a medida para redes MikroTik.
 
@@ -18,7 +18,7 @@ Construyo interfaces web con React, backends con Node.js y NestJS, y herramienta
 
 ## 🧭 Sobre mí
 
-- 🛰️ **Analista de Redes** especializado en **MikroTik (RouterOS)**: diseño, configuración, monitoreo y automatización de infraestructura de red.
+- 🛰️ **Apasionado por las redes y en busca de nuevos conocimientos**, especialmente sobre **MikroTik (RouterOS)**, configuración y monitoreo de infraestructura.
 - 💻 **Desarrollador Full Stack**: frontend con **React** y backend con **Node.js** y **NestJS**.
 - 🎨 **Diseño Frontend**: me gusta crear interfaces limpias, accesibles y funcionales que mejoren la experiencia del usuario.
 - 🔧 Desarrollo **herramientas propias para MikroTik**: paneles de gestión, scripts y utilidades que simplifican la operación diaria de la red.
